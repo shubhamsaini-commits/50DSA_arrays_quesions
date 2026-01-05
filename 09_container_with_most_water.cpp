@@ -1,10 +1,19 @@
+// CONTAINER WITH MOST WATER 
+//You are given an integer array height of length N. There are N vertical lines drawn such that
+// the two endpoints of the ith line are (i, 0) and (i, height[i]).
+// Find two lines that together with the x-axis form a container, such that the container contains
+// the most water. Return the maximum amount of water a container can store.
+
+// The Formula:
+// Area = (Distance between lines) * (Height of the shorter line)
+
 #include<iostream>
 #include<vector>
 #include<climits>
 using namespace std;
 
 
-// this approach is shit... since it's TC is N squared 
+// the bruite force approach .... TC n squared 
 
 int maxwater(vector <int> &vec){
     int mw=INT_MIN , cw , h , w;
@@ -60,4 +69,5 @@ int main(){
     cout<<"the maximum water is = "<<maxwater(height)<<endl;
     cout<<"the maximum water is = "<<maxArea(height)<<endl;
     return 0;
+
 }
