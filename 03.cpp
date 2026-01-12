@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-
+//in a given array .. move zeroes to the end of the array
 using namespace std;
 
 void moveZeroes(vector<int>& nums) {
@@ -22,4 +22,5 @@ int main() {
     // Print result
     for(int x : arr) cout << x << " "; 
     return 0;
+
 }
