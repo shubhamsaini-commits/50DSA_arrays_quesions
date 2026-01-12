@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-
+// reverse a given array 
 
 int main(){
 
@@ -23,4 +23,5 @@ int main(){
     
 
     return 0;
+
 }
