@@ -1,3 +1,7 @@
+//LEETCODE PROBLEM 567 -> https://leetcode.com/problems/permutation-in-string/description/
+// GIVEN TWO STRINGS S1 AND S2, RETURN TRUE IF S2 CONTAINS A PERMUTATION OF S1, OR FALSE OTHERWISE
+
+
 #include<iostream>
 #include<vector>
 #include<string>
@@ -40,4 +44,5 @@ int main(){
   string s2 = "abbacacd";
   string s1 = "abc";
   return 0;
+
 }
