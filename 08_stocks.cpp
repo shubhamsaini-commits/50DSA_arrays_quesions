@@ -46,7 +46,7 @@ int maxProfit2(vector <int> &vec){
     int mp =0;
     for (int i = 0; i < vec.size(); i++)
     {
-        if (min<vec[i]) // remember which day the stock was cheapest
+        if (min>vec[i]) // remember which day the stock was cheapest
         {
             min = vec[i];
         }
