@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -12,9 +13,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
