@@ -34,9 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0875-koko-eating-bananas) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
