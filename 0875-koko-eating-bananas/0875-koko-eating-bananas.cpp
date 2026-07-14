@@ -1,10 +1,9 @@
 class Solution {
 public:
-    bool canFinish(const vector<int>& piles, int h, int k) {
-        long long hours = 0;
+    bool canFinish(vector<int>& piles, int h, int k) {
+       int hours = 0;
         for (int pile : piles) {
-            hours += pile / k;
-            if (pile % k != 0) hours++;
+            hours += pile / k  + ((pile%k==0)? 0 : 1) ;
             if (hours > h) return false;
         }
         return hours <= h;
