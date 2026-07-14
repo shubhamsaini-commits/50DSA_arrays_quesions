@@ -1,19 +1,25 @@
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
-        unordered_map<int , int> mp;
-        mp[-1] = 0;
-        mp[nums.size()] = 0;
-        int sum = 0 ;
-        for(int i = 0 ; i < nums.size() ; i++){
-            sum+= nums[i];
-            mp[i] = sum;
+        int prevSum = 0;
+        int totalSum = 0;
+        int i = 0;
+        int j = nums.size()-1;
+        while(i<=j){
+            if(i == j){
+                totalSum+= nums[i];
+                break;
+            }
+            totalSum+= nums[i]+ nums[j];
+            i++;
+            j--;
         }
 
         for(int i = 0; i < nums.size(); i++){
-            if(mp[i-1] == mp[nums.size()-1] - mp[i]){
+            if(prevSum == totalSum - prevSum - nums[i]){
                 return i;
             }
+            prevSum+= nums[i];
         }
         return -1;
     }
