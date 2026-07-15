@@ -8,13 +8,8 @@ class Solution {
 public:
     int gcdOfOddEvenSums(int n) {
         int odd = n*n;
-        int even = 2;
-        int sum = 2;
-        while(n>1){
-            even+=2;
-            sum+= even;
-            n--;
-        }
+        int sum = n*(n+1);
+        
        while (odd != 0) {
         int rem = sum % odd;
         sum = odd;
