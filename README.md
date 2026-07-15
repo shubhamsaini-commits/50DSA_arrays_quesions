@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0875-koko-eating-bananas) |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0724-find-pivot-index) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
