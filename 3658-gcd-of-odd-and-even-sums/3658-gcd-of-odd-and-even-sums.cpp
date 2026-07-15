@@ -15,6 +15,11 @@ public:
             sum+= even;
             n--;
         }
-        return gcd(sum , odd);
+       while (odd != 0) {
+        int rem = sum % odd;
+        sum = odd;
+        odd = rem;
+    }
+    return sum;
     }
 };
