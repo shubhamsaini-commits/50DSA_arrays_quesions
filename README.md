@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/1025-divisor-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0075-sort-colors) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
