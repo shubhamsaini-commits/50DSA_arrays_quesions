@@ -1,5 +1,5 @@
 class Solution {
-    long long gcd(long long a , long long b){
+    int gcd(int a , int b){
         long long rem;
         while(b != 0){
             rem = a % b;
@@ -8,21 +8,13 @@ class Solution {
         }
         return a;
     }
-    long long mi(const vector<int> &nums , int i){
-        long long max = INT_MIN;
-        while(i>=0){
-            if(max< nums[i]){
-                max = nums[i];
-            }
-            i--;
-        }
-        return max;
-    }
+
 public:
     long long gcdSum(vector<int>& nums) {
-        vector<long long> prefixgcd;
+        vector<int> prefixgcd;
         long long maxi = INT_MIN;
-        long long prefixgcdi;
+        int prefixgcdi;
+        prefixgcd.reserve(nums.size());
         int i = 0;
 
         while(i < nums.size()){
