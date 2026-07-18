@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/1025-divisor-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0875-koko-eating-bananas) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
