@@ -72,4 +72,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
