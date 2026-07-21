@@ -16,10 +16,10 @@ public:
         if (root == nullptr) return {};
         q.push(root);
         vector<vector<int>> ans;
-        vector<int> current;
         TreeNode* thisNode;
         while(!q.empty()){
             int thisLevel = q.size();
+        vector<int> current;
             for(int i = 0; i < thisLevel; i++){
                 thisNode = q.front();
                 q.pop();
@@ -28,7 +28,7 @@ public:
                 if (thisNode->right != nullptr) q.push(thisNode->right);
             }
             ans.push_back(current);
-            current.clear();
+            // current.clear();
         }
         return ans;
     }
