@@ -11,7 +11,7 @@ public:
             if(mid*mid == x) return mid;
             else if(mid * mid > x) j = mid-1;
             else if(mid * mid < x){
-                ans = max(ans , mid);
+                ans = mid;
                 i = mid+1;
             }
         }
