@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0069-sqrtx) |
 | [0875-koko-eating-bananas](https://github.com/shubhamsaini-commits/DSA_WITH_CPP/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
